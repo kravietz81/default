@@ -1,0 +1,2 @@
+# default
+Default / domyślne
